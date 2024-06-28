@@ -25,6 +25,6 @@ jobs:
           script: |
             cd /home/eling/projek/hariakhir
             sudo git stash
-            sudo git pull origin develop
+            sudo git pull origin master
             sudo pm2 restart /home/eling/projek/hariakhir/main.py
             sudo chmod -R 777 /home/eling/projek/hariakhir
