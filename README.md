@@ -43,6 +43,5 @@ This project is a simple chatbot implemented using Flask, Python, and a pre-trai
 | Bima Rakajati               | A11.2020.13088 | Flask                |
 
 ## 📙 Reference
-
 Thanks to their great works：
 - https://buffml.com/web-based-chatbot-using-flask-api/
